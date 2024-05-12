@@ -2,11 +2,13 @@
 Alot of extra flatscreen settings and others to make the flatscreen mod better! With More Features Below..
 
 ## Features
--   **Reloading**
+- **Reloading**
 Adding Reloading Took Way longer than i thought it would take but made the bonelab campaign so much easier to play. The keybind is **X** And Can Be Changed In V2.0 (not out :c)
-    -   **FOV**
+
+    - **FOV**
     Changing The FOV Is I Must Need For Me Going Up To 120 FOV.
-    -   **Dismounting**
+
+    - **Dismounting**
     For Some reason not in the main mod??
 
 ## Whats To Come?
