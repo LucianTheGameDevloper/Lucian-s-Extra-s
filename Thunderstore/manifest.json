@@ -1,0 +1,10 @@
+{
+    "name": "Lucian's Extra's",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Alot of extra flatscreen settings and others to make the flatscreen mod better!",
+    "dependencies": [
+        "LlamasHere-FlatPlayer-1.0.1",
+        "gnonme-BoneLib-2.4.0"
+    ]
+}	
